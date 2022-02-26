@@ -6,3 +6,5 @@
 The G80-S Micro SBC.  The first computer I designed, and what led to many projects afterwards.  This computer has been the basis for many other computers that I have designed over the years.  And after quite a bit of consideration, I have decided to open source the design files for the world to use/abuse.
 
 The source code for the firmware can be found here: https://github.com/jdgabbard/z80-G-DOS
+
+Or, you can download one of the previous versions from my website's download page: http://retrodepot.net/?page_id=510
